@@ -1,0 +1,448 @@
+# Copyright (C) 2019 PayPal Checkout for WooCommerce
+# This file is distributed under the same license as the PayPal Checkout for WooCommerce package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PayPal Checkout for WooCommerce 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woo-paypal-checkout\n"
+"POT-Creation-Date: 2019-06-16 09:04+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 2.2.3\n"
+
+#: includes/gateway/class-wc-gateway-paltechwpdevwpc-paypal-checkout-request.php:47
+#: includes/gateway/class-wc-gateway-paltechwpdevwpc-paypal-checkout-request.php:147
+#: includes/gateway/class-wc-gateway-paltechwpdevwpc-paypal-checkout-request.php:196
+#: includes/gateway/class-wc-gateway-paltechwpdevwpc-paypal-checkout-request.php:237
+#: includes/gateway/class-wc-gateway-paltechwpdevwpc-paypal-checkout-request.php:494
+msgid "PayPal Checkout for WooCommerce Version: %s"
+msgstr ""
+
+#: includes/gateway/class-wc-gateway-paltechwpdevwpc-paypal-checkout-request.php:48
+#: includes/gateway/class-wc-gateway-paltechwpdevwpc-paypal-checkout-request.php:148
+#: includes/gateway/class-wc-gateway-paltechwpdevwpc-paypal-checkout-request.php:197
+#: includes/gateway/class-wc-gateway-paltechwpdevwpc-paypal-checkout-request.php:238
+#: includes/gateway/class-wc-gateway-paltechwpdevwpc-paypal-checkout-request.php:495
+msgid "WooCommerce Version: %s"
+msgstr ""
+
+#: includes/gateway/class-wc-gateway-paltechwpdevwpc-paypal-checkout-request.php:227
+msgid "%s payment approved! Transaction ID: %s"
+msgstr ""
+
+#: includes/gateway/class-wc-gateway-paltechwpdevwpc-paypal-checkout.php:21
+msgid "Continue to payment"
+msgstr ""
+
+#: includes/gateway/class-wc-gateway-paltechwpdevwpc-paypal-checkout.php:23
+msgid "PayPal Checkout"
+msgstr ""
+
+#: includes/gateway/class-wc-gateway-paltechwpdevwpc-paypal-checkout.php:24
+msgid "Add Smart Payment Buttons to your website."
+msgstr ""
+
+#: includes/gateway/class-wc-gateway-paltechwpdevwpc-paypal-checkout.php:103
+msgid "Gateway disabled"
+msgstr ""
+
+#: includes/gateway/class-wc-gateway-paltechwpdevwpc-paypal-checkout.php:103
+msgid "PayPal does not support your store currency."
+msgstr ""
+
+#: includes/gateway/class-wc-gateway-paltechwpdevwpc-paypal-checkout.php:160
+msgid "Refund failed."
+msgstr ""
+
+#: includes/gateway/class-wc-gateway-paltechwpdevwpc-paypal-checkout.php:183
+msgid "Refunded %1$s - Refund ID: %2$s"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:7
+msgid "This image requires an SSL host.  Please upload your image to <a target=\"_blank\" href=\"http://www.sslpic.com\">www.sslpic.com</a> and enter the image URL here."
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:10
+msgid "PayPal"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:11
+msgid "Checkout"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:12
+msgid "Pay"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:16
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:17
+msgid "Enable PayPal Express"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:23
+msgid "Title"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:25
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:26
+msgid "PayPal Express"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:30
+msgid "Description"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:32
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:33
+msgid "Pay via PayPal; you can pay with your credit card if you don't have a PayPal account"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:37
+msgid "Account Settings"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:42
+msgid "Sandbox Mode"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:44
+msgid "Enable PayPal Sandbox Mode"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:46
+msgid "Place the payment gateway in development mode. Sign up for a developer account <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:49
+msgid "Sandbox Client ID"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:56
+msgid "Sandbox Secret ID"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:58
+msgid "Enter your Sandbox PayPal Rest API Secret ID."
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:63
+msgid "Live Client ID"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:70
+msgid "Live Secret ID"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:72
+msgid "Enter your PayPal Rest API Secret ID."
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:77
+msgid "PayPal hosted Checkout Settings (Optional)"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:79
+msgid "Customize the appearance of PayPal Checkout on the PayPal side."
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:82
+msgid "Page Style"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:84
+msgid "Optionally enter the name of the page style you wish to use. These are defined within your PayPal account."
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:87
+#: includes/gateway/settings-paypal-checkout.php:102
+#: includes/gateway/settings-paypal-checkout.php:110
+msgid "Optional"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:90
+msgid "Brand Name"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:92
+msgid "This controls what users see as the brand / company name on PayPal review pages."
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:97
+msgid "PayPal Checkout Logo Image(190x60)"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:99
+msgid "This controls what users see as the logo on PayPal review pages. "
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:105
+msgid "Header Image (750x90)"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:107
+msgid "This controls what users see as the header banner on PayPal review pages. "
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:113
+msgid "Landing Page"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:116
+msgid "Type of PayPal page to display."
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:120
+msgctxt "Type of PayPal page"
+msgid "Billing (Non-PayPal account)"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:121
+msgctxt "Type of PayPal page"
+msgid "Login (PayPal account login)"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:125
+msgid "PayPal Smart Button Display settings"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:130
+msgid "Product Page"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:132
+msgid "Show the Express Checkout button on product detail pages."
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:134
+msgid "Allows customers to checkout using PayPal directly from a product page."
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:138
+#: includes/gateway/settings-paypal-checkout.php:191
+#: includes/gateway/settings-paypal-checkout.php:244
+#: includes/gateway/settings-paypal-checkout.php:298
+msgid "Button Layout"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:141
+#: includes/gateway/settings-paypal-checkout.php:194
+#: includes/gateway/settings-paypal-checkout.php:247
+#: includes/gateway/settings-paypal-checkout.php:301
+msgid "Select Vertical for stacked buttons, and Horizontal for side-by-side buttons."
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:145
+#: includes/gateway/settings-paypal-checkout.php:199
+#: includes/gateway/settings-paypal-checkout.php:252
+#: includes/gateway/settings-paypal-checkout.php:306
+msgid "Horizontal"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:146
+#: includes/gateway/settings-paypal-checkout.php:198
+#: includes/gateway/settings-paypal-checkout.php:251
+#: includes/gateway/settings-paypal-checkout.php:305
+msgid "Vertical"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:150
+#: includes/gateway/settings-paypal-checkout.php:203
+#: includes/gateway/settings-paypal-checkout.php:256
+#: includes/gateway/settings-paypal-checkout.php:310
+msgid "Button Color"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:153
+#: includes/gateway/settings-paypal-checkout.php:206
+#: includes/gateway/settings-paypal-checkout.php:259
+#: includes/gateway/settings-paypal-checkout.php:313
+msgid "Set the color you would like to use for the PayPal button."
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:157
+#: includes/gateway/settings-paypal-checkout.php:210
+#: includes/gateway/settings-paypal-checkout.php:263
+#: includes/gateway/settings-paypal-checkout.php:317
+msgid "Gold"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:158
+#: includes/gateway/settings-paypal-checkout.php:211
+#: includes/gateway/settings-paypal-checkout.php:264
+#: includes/gateway/settings-paypal-checkout.php:318
+msgid "Blue"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:159
+#: includes/gateway/settings-paypal-checkout.php:212
+#: includes/gateway/settings-paypal-checkout.php:265
+#: includes/gateway/settings-paypal-checkout.php:319
+msgid "Silver"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:163
+#: includes/gateway/settings-paypal-checkout.php:216
+#: includes/gateway/settings-paypal-checkout.php:269
+#: includes/gateway/settings-paypal-checkout.php:323
+msgid "Button Shape"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:166
+#: includes/gateway/settings-paypal-checkout.php:219
+#: includes/gateway/settings-paypal-checkout.php:272
+#: includes/gateway/settings-paypal-checkout.php:326
+msgid "Set the shape you would like to use for the buttons."
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:170
+#: includes/gateway/settings-paypal-checkout.php:223
+#: includes/gateway/settings-paypal-checkout.php:276
+#: includes/gateway/settings-paypal-checkout.php:330
+msgid "Rect"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:171
+#: includes/gateway/settings-paypal-checkout.php:224
+#: includes/gateway/settings-paypal-checkout.php:277
+#: includes/gateway/settings-paypal-checkout.php:331
+msgid "Pill"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:175
+#: includes/gateway/settings-paypal-checkout.php:228
+#: includes/gateway/settings-paypal-checkout.php:281
+#: includes/gateway/settings-paypal-checkout.php:335
+msgid "Button Label"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:178
+#: includes/gateway/settings-paypal-checkout.php:231
+#: includes/gateway/settings-paypal-checkout.php:284
+#: includes/gateway/settings-paypal-checkout.php:338
+msgid "Set the label type you would like to use for the PayPal button."
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:184
+msgid "Cart Page"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:185
+msgid "Show Express Checkout button on shopping cart page."
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:237
+msgid "Sidebar Widget Cart (Mini-cart)"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:238
+msgid "Show Express Checkout button on Sidebar Widget Cart (Mini-cart)."
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:290
+msgid "Checkout Page"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:292
+msgid "Show the Express Checkout button on checkout page."
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:294
+msgid "Allows customers to checkout using PayPal directly from a checkout page."
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:344
+msgid "Advanced Settings (Optional)"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:349
+msgid "Invoice ID Prefix"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:351
+msgid "Add a prefix to the invoice ID sent to PayPal. This can resolve duplicate invoice problems when working with multiple websites on the same PayPal account."
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:356
+msgid "Payment Action"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:359
+msgid "Choose whether you wish to capture funds immediately or authorize payment only."
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:363
+msgid "Sale"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:364
+msgid "Authorization"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:365
+msgid "Order"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:369
+msgid "Debug log"
+msgstr ""
+
+#: includes/gateway/settings-paypal-checkout.php:373
+msgid "Log PayPal events, such as IPN requests, inside %s Note: this may log personal information. We recommend using this for debugging purposes only and deleting the logs when finished."
+msgstr ""
+
+#: public/class-woo-paypal-checkout-public.php:178
+msgid "OR"
+msgstr ""
+
+#: public/class-woo-paypal-checkout-public.php:351
+msgid "Confirm your PayPal order"
+msgstr ""
+
+#: public/class-woo-paypal-checkout-public.php:606
+msgid "Name:"
+msgstr ""
+
+#: public/class-woo-paypal-checkout-public.php:608
+msgid "Email:"
+msgstr ""
+
+#: public/class-woo-paypal-checkout-public.php:611
+msgid "Phone:"
+msgstr ""
+
+#: public/class-woo-paypal-checkout-public.php:634
+msgid "Shipping details"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PayPal Checkout for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://profiles.wordpress.org/paltechwpdev/#content-plugins"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This is a short description of what the plugin does. It's displayed in the WordPress admin area."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "paltechwpdev"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/paltechwpdev"
+msgstr ""

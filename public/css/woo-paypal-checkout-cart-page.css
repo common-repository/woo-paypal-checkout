@@ -1,0 +1,11 @@
+.paltechwpdevwpc_paypal_checkout_div {
+    margin: auto;
+}
+.paltechwpdevwpc-checkout-buttons__separator {
+    display: block;
+    opacity: .5;
+    margin: 0 0 1em;
+    text-align: center;
+	margin: 1em 0;
+	overflow: hidden;
+}
